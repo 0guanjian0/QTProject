@@ -4,6 +4,7 @@
 #include "const.h"
 #include <QDir>
 #include <QIcon>
+#include <QDebug>
 
 
 

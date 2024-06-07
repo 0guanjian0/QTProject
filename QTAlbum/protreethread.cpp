@@ -1,5 +1,6 @@
 #include "protreethread.h"
 #include<QDir>
+#include<QDebug>
 #include "protreeitem.h"
 #include "const.h"
 

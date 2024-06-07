@@ -11,7 +11,7 @@
 #include<QMenu>
 #include <qfiledialog.h>
 #include<QSharedPointer>
-
+#include<QDebug>
 
 
 
